@@ -1,3 +1,4 @@
 "Hello git" 
-Jaddy daddy baddy
-.
+Jaddy daddy baddy.
+Third line.
+Four line.
