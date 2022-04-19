@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Line for new branch
-=======
->>>>>>> e69b8f8e2cb2392db41a277009e6f2b6907229b9
 New line
 "Hello git" 
 Jaddy daddy baddy.
@@ -14,4 +10,3 @@ Five line.
 Boom.
 =======
 Third line and pua you.
->>>>>>> bc0d3e1584e5d294e0bae46e774b14bd05874c3e
