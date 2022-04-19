@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Line for new branch
+=======
+>>>>>>> e69b8f8e2cb2392db41a277009e6f2b6907229b9
 New line
 "Hello git" 
 Jaddy daddy baddy.
