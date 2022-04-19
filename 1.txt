@@ -9,4 +9,9 @@ Five line.
 =======
 Boom.
 =======
+<<<<<<< HEAD
 Third line and pua you.
+=======
+Third line and pua you.
+Line for new branch
+>>>>>>> my_first_branch
