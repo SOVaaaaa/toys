@@ -1,3 +1,4 @@
+Line for new branch
 New line
 "Hello git" 
 Jaddy daddy baddy.
