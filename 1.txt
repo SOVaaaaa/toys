@@ -1,4 +1,3 @@
-Line for new branch
 New line
 "Hello git" 
 Jaddy daddy baddy.
@@ -11,4 +10,4 @@ Five line.
 Boom.
 =======
 Third line and pua you.
->>>>>>> bc0d3e1584e5d294e0bae46e774b14bd05874c3e
+Line for new branch
